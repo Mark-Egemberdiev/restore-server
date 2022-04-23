@@ -1,46 +1,33 @@
 {
-  "menu": [
+  "products": [
     {
-      "title": "Cesar salad",
-      "price": 12,
-      "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-      "category": "salads",
-      "id": 1
+      "id": 1,
+      "title": "Clean Code",
+      "description": "Robert C.Martin",
+      "price": 395,
+      "image": "https://m.media-amazon.com/images/I/41-+g1a2Y1L._SX381_BO1,204,203,200_.jpg"
     },
     {
-      "title": "Pizza Margherita",
-      "price": 10,
-      "url": "https://blog.kesari.in/wp-content/uploads/2017/11/PizzaMargherita-Kesari-Tours.jpg",
-      "category": "pizza",
-      "id": 2
+      "id": 2,
+      "title": "Software Engineering at Google",
+      "description": "Titus Winters, Tom Manshreck",
+      "price": 270,
+      "image": "https://m.media-amazon.com/images/I/41LGOb9M6zL._SX381_BO1,204,203,200_.jpg"
     },
     {
-      "title": "Greece salad",
-      "price": 8,
-      "url": "https://assets.epicurious.com/photos/576454fb42e4a5ed66d1df6b/master/pass/greek-salad.jpg",
-      "category": "salads",
-      "id": 4
+      "id": 3,
+      "title": "Production-Ready Microservices",
+      "description": "Susan J.Fowler",
+      "price": 205, ,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yJ75gpV-L._SX381_BO1,204,203,200_.jpg"
     },
     {
-      "title": "Pizza Napoletana",
-      "price": 13,
-      "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
-      "category": "pizza",
-      "id": 3
-    },
-    {
-      "title": "Cowboy Steak",
-      "price": 25,
-      "url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
-      "category": "meat",
-      "id": 5
-    },
-    {
-      "title": "Shawarma",
-      "price": 15,
-      "url": "https://st4.depositphotos.com/5363990/19641/i/450/depositphotos_196411176-stock-photo-shaurma-shaurma-doner-meat-vegetables.jpg",
-      "category": "salads",
-      "id": 5
+      "id": 4,
+      "title": "Release It!",
+      "description": "Michael T. Nygard",
+      "price": 249,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SX403_BO1,204,203,200_.jpg"
     }
   ]
 }
+
