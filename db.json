@@ -22,21 +22,21 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Lugv4F3YL._SX415_BO1,204,203,200_.jpg"
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Software Engineering at Google",
       "description": "Titus Winters, Tom Manshreck",
       "price": 40,
       "image": "https://m.media-amazon.com/images/I/41LGOb9M6zL._SX381_BO1,204,203,200_.jpg"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Production-Ready Microservices",
       "description": "Susan J.Fowler",
       "price": 35, 
       "image": "https://images-na.ssl-images-amazon.com/images/I/41yJ75gpV-L._SX381_BO1,204,203,200_.jpg"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Release It!",
       "description": "Michael T. Nygard",
       "price": 39,
