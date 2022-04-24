@@ -4,28 +4,42 @@
       "id": 1,
       "title": "Clean Code",
       "description": "Robert C.Martin",
-      "price": 395,
+      "price": 39,
       "image": "https://m.media-amazon.com/images/I/41-+g1a2Y1L._SX381_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Grokking Algorithms",
+      "description": "Aditya Bhargava",
+      "price": 40,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cV560hqBL._SX396_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Data Structures and Algorithms",
+      "description": "Jay Wengrow",
+      "price": 37,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Lugv4F3YL._SX415_BO1,204,203,200_.jpg"
     },
     {
       "id": 2,
       "title": "Software Engineering at Google",
       "description": "Titus Winters, Tom Manshreck",
-      "price": 270,
+      "price": 40,
       "image": "https://m.media-amazon.com/images/I/41LGOb9M6zL._SX381_BO1,204,203,200_.jpg"
     },
     {
       "id": 3,
       "title": "Production-Ready Microservices",
       "description": "Susan J.Fowler",
-      "price": 205, 
+      "price": 35, 
       "image": "https://images-na.ssl-images-amazon.com/images/I/41yJ75gpV-L._SX381_BO1,204,203,200_.jpg"
     },
     {
       "id": 4,
       "title": "Release It!",
       "description": "Michael T. Nygard",
-      "price": 249,
+      "price": 39,
       "image": "https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SX403_BO1,204,203,200_.jpg"
     }
   ]
