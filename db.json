@@ -1,5 +1,4 @@
-{
-   "products": [
+ [
     {
       "id": 1,
       "title": "Clean Code",
@@ -42,5 +41,6 @@
       "price": 39,
       "image": "https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SX403_BO1,204,203,200_.jpg"
     }
-}
+      ]
+
 
