@@ -1,46 +1,33 @@
- [
-    {
-      "id": 1,
-      "title": "Clean Code",
-      "description": "Robert C.Martin",
-      "price": 39,
-      "image": "https://m.media-amazon.com/images/I/41-+g1a2Y1L._SX381_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Grokking Algorithms",
-      "description": "Aditya Bhargava",
-      "price": 40,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cV560hqBL._SX396_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Data Structures and Algorithms",
-      "description": "Jay Wengrow",
-      "price": 37,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Lugv4F3YL._SX415_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Software Engineering at Google",
-      "description": "Titus Winters, Tom Manshreck",
-      "price": 40,
-      "image": "https://m.media-amazon.com/images/I/41LGOb9M6zL._SX381_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Production-Ready Microservices",
-      "description": "Susan J.Fowler",
-      "price": 35, 
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41yJ75gpV-L._SX381_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Release It!",
-      "description": "Michael T. Nygard",
-      "price": 39,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SX403_BO1,204,203,200_.jpg"
-    }
-      ]
-
+{
+ "news": [
+   {
+    "id": 1,
+    "title": "Business meeting with the delegation from India.",
+    "text": "September 10, 2021 Lawyer of LEX Law Firm Aliya Palvanovna took part in business-meeting of Indian delegation headed by the President of Indian Economic Trade Organization Dr. Asif Iqbal with entrepreneurs of the Kyrgyz...",
+    "date": "24 Oct 2021",
+    "path": "Rectangle1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kyrgyz-Turkish Business Forum.",
+    "text": "September 10, 2021 Lawyer of LEX Law Firm Aliya Palvanovna took part in business-meeting of Indian delegation headed by the President of Indian Economic Trade Organization Dr. Asif Iqbal with entrepreneurs of the Kyrgyz...",
+    "date": "24 Oct 2021",
+    "path": "Rectangle2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Annual business meeting on obtaining work and business visas...",
+    "text": "September 10, 2021 Lawyer of LEX Law Firm Aliya Palvanovna took part in business-meeting of Indian delegation headed by the President of Indian Economic Trade Organization Dr. Asif Iqbal with entrepreneurs of the Kyrgyz...",
+    "date": "24 Oct 2021",
+    "path": "Rectangle3.jpg"
+  }
+  {
+    "id": 4,
+    "title": "Business meeting with the delegation from India.",
+    "text": "September 10, 2021 Lawyer of LEX Law Firm Aliya Palvanovna took part in business-meeting of Indian delegation headed by the President of Indian Economic Trade Organization Dr. Asif Iqbal with entrepreneurs of the Kyrgyz...",
+    "date": "24 Oct 2021",
+    "path": "Rectangle1.jpg"
+  }
+  ]
+}
 
